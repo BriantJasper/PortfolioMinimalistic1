@@ -7,7 +7,7 @@ export const siteConfig = {
     email: "your-email@example.com",
     linkedin: "https://linkedin.com/in/yourprofile",
     twitter: "https://x.com/yourprofile",
-    github: "https://github.com/BriantJasper",
+    github: "https://github.com",
   },
   aboutMe:
     "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
